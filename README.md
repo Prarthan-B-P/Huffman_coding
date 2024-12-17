@@ -23,7 +23,7 @@ README.md: Project description and setup instructions.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/huffman-coding.git
+git clone https://github.com/Prarthan-B-P/Huffman_coding.git
 Navigate to the project directory:
 bash
 Copy code
